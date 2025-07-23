@@ -1,3 +1,1 @@
-"Master line 1"
-"Develop line 1"
-
+"master"
